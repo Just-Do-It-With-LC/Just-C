@@ -1,0 +1,11 @@
+C:\_developSoftKu\CLion-2019.2.2.win\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\_developSoftKu\CLion-2019.2.2.win\#CodeKu\Just C"
+-- The C compiler identification is GNU 8.1.0
+-- Check for working C compiler: D:/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe
+-- Check for working C compiler: D:/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - failed
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just C/cmake-build-debug

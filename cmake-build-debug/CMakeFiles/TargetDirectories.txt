@@ -1,0 +1,3 @@
+C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just C/cmake-build-debug/CMakeFiles/Just_C.dir
+C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
